@@ -1,0 +1,8 @@
+/target
+
+mydb
+history.txt
+
+*.log
+*.bak
+*.tmp
