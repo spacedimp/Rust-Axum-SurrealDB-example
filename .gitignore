@@ -3,6 +3,8 @@
 mydb
 history.txt
 
+/src/mydb
+
 *.log
 *.bak
 *.tmp
